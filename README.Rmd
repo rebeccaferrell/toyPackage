@@ -14,4 +14,4 @@ knitr::opts_chunk$set(
 )
 ```
 
-Yo it's a package
+Yo it's a package...
