@@ -5,7 +5,7 @@ Version: 0.1
 Date: 2015-07-20
 Author: Rebecca Ferrell
 Maintainer: Rebecca Ferrell <rferrell@uw.edu>
-Description: More about what it does. (Maybe more than one line.)
+Description: More about what it does. (Maybe more than one line.) I added another line.
 License: MIT + file LICENSE
 LazyData: TRUE
 Suggests: ggplot2,
