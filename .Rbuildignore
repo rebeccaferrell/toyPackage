@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^*\.aux$
+^*\.dvi$
+^README\.Rmd$
+^README-.*\.png$

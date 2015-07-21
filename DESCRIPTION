@@ -1,0 +1,13 @@
+Package: toyPackage
+Type: Package
+Title: It Makes a Circle (Title Case)
+Version: 0.1
+Date: 2015-07-20
+Author: Rebecca Ferrell
+Maintainer: Rebecca Ferrell <rferrell@uw.edu>
+Description: More about what it does. (Maybe more than one line.)
+License: MIT + file LICENSE
+LazyData: TRUE
+Suggests: ggplot2,
+    knitr
+VignetteBuilder: knitr
