@@ -18,3 +18,5 @@ plotCircle <- function(r=1) {
     plot(r*x,r*y,type="l",
          main=paste0("A Circle of Radius ", r))
 }
+
+# Qian: I added a comment.
